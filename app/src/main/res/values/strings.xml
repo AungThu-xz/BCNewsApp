@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">BCNewsApp</string>
+    <string name="txt_news_sample">Faut-il investir dans les cryptomonnaies en 2024</string>
+    <string name="text_ui_mode">UI Mode</string>
+
+    <string name="source">Source</string>
+    <string name="daily_news">Daily News</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="internet_warming">Check your Internet Connection and Try Again!</string>
 </resources>

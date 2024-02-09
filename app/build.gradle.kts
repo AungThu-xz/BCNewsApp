@@ -16,6 +16,7 @@ android {
         versionName = "1.0"
 
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
+
     }
 
     buildTypes {
@@ -35,6 +36,7 @@ android {
         jvmTarget = "1.8"
     }
     buildToolsVersion = "34.0.0"
+
 }
 
 dependencies {
